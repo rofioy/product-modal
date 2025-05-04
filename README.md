@@ -7,8 +7,9 @@ This is a simple mini project that displays a shoe product showcase page with a 
 - Responsive design for both desktop and mobile
 - Developer-friendly project structure
 
-2. HTML5
+2. Technologies Used
 
+- HTML5
 - CSS3 / Tailwind CSS (if applicable)
 - JavaScript
 - Lucide Icons for SVG icons
